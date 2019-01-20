@@ -1,0 +1,78 @@
+@media (min-width:576px)and(max-width:768px) {
+    .header_name img {
+        width: 100px;
+    }
+
+    .profile .profile__text {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .profile__imgs .profile__imgs-img img {
+        margin-bottom: 10px;
+        width: 110px;
+        
+    }
+
+    .profile__imgs .profile__imgs-img .kids {
+        position: relative;
+        top: 5px;
+        margin-bottom: 20px;
+        width: 118px;
+        height: 110px;
+    }
+
+    .profile__imgs .profile__imgs-img i {
+        color: #808080;
+        font-size: 60px;
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+
+    .profile__controls-control {
+        border: 1px solid #808080;
+        color: #808080;
+        padding: 5px 15px;
+        font-size:10px;
+    }
+}
+
+@media (max-width:575px) {
+    .header_name img {
+        width: 80px;
+    }
+
+    .profile .profile__text {
+        font-size: 23px;
+        margin-bottom: 30px;
+    }
+
+    .profile__imgs .profile__imgs-img img {
+        margin-bottom: 10px;
+        width: 90px;
+    }
+
+    .profile__imgs .profile__imgs-img .kids {
+        position: relative;
+        top: 5px;
+        margin-bottom: 20px;
+        width: 98px;
+        height: 90px;
+    }
+
+    .profile__imgs .profile__imgs-img i {
+        color: #808080;
+        font-size: 60px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom:30px;
+    }
+
+    .profile__controls-control {
+        border: 1px solid #808080;
+        color: #808080;
+        padding: 5px 15px;
+        font-size:8px;
+    }
+}
