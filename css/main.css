@@ -1,0 +1,70 @@
+.header_name-img {
+    width: 130px;
+}
+
+.profile {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 190px;
+}
+
+.profile .profile__text {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.profile__imgs {
+    display: flex;
+    margin-bottom: 49px;
+   
+}
+
+.profile__imgs .profile__imgs-img{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px; 
+    
+}
+
+
+.profile__imgs .profile__imgs-img img {
+    margin-bottom: 10px;
+    width: 120px;
+    
+}
+
+.profile__imgs .profile__imgs-img .blue {
+    position: relative;
+    top: 2px;
+}
+
+.profile__imgs .profile__imgs-img .kids {
+    position: relative;
+    top: 5px;
+    margin-bottom: 20px;
+    width: 128px;
+    height: 120px;
+}
+
+.profile__imgs .profile__imgs-img span {
+    text-align: center;
+    color: #808080;
+}
+
+.profile__imgs .profile__imgs-img i {
+    color: #808080;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+
+.profile__controls-control {
+    border: 1px solid #808080;
+    color: #808080;
+    padding: 5px 15px;
+    font-size:13px;
+}
