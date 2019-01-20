@@ -9,11 +9,11 @@
     margin-bottom: 70px;
 }
 
-.top__header .top__header-left {
+.top__header .for-media {
     display: flex;
 }
 
-.top__header-left .header__top-titles {
+.for-media .header__top-titles {
     margin-right: 20px;
     font-size: 13px;
     margin-top: 10px;
@@ -68,12 +68,12 @@
 .main__video1-icon .vidio1-icon {
     color:rgb(8, 90, 26);
     font-family: 'ZCOOL KuaiLe', cursive;
-    font-size: 18px;
     margin-left: 40px;
 }
 
 .main__video1-icon .vidio1-icon i {
     font-weight: 600;
+    font-size: 18px;
 }
 
 .main__video1-column .video1-explain {
