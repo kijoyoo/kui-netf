@@ -36,7 +36,7 @@
 }
 
 .main__video1{
-    margin-bottom: -200px;
+    margin-bottom: -100px;
 }
 
 .main__video1 .main__video1-column {
@@ -50,7 +50,7 @@
 }
 
 .main__video1-column .main__video1-company {
-    color: green;
+    color:rgb(121, 121, 14);
     font-weight: 600;
     font-size: 30px;
     font-family: 'ZCOOL KuaiLe', cursive;
@@ -58,7 +58,7 @@
 }
 
 .main__video1-column .main__video1-title {
-    color: rgb(8, 90, 26);
+    color: rgb(121, 121, 14);
     font-size: 55px; 
     font-weight: bolder;
     font-family: 'ZCOOL KuaiLe', cursive;
@@ -66,7 +66,7 @@
 }
 
 .main__video1-icon .vidio1-icon {
-    color:rgb(8, 90, 26);
+    color:rgb(97, 97, 3);
     font-family: 'ZCOOL KuaiLe', cursive;
     margin-left: 40px;
 }
@@ -79,7 +79,7 @@
 .main__video1-column .video1-explain {
     margin-top: 50px;
     margin-left: 20px;
-    color: rgb(8, 90, 26);
+    color: rgb(163, 163, 8);
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
@@ -89,8 +89,6 @@
 }
 
 .main__video2-collection {
-    position: relative;
-    z-index: 1;
     margin-left: 30px;
     margin-right: 30px;
 }
@@ -119,7 +117,8 @@
 .nav-section .nav-column  {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    margin-bottom: 10px;
+    
 }
 
 .nav-column .nav-column__box {
