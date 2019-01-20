@@ -2,6 +2,7 @@
     color: #e5e5e5;
 }
 
+
 .header__top {
     display: flex;
     justify-content: space-between;
@@ -129,3 +130,5 @@
     margin-bottom: 20px;
     font-size: 13px;
 }
+
+

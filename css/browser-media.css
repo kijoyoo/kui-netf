@@ -1,0 +1,123 @@
+
+@media (min-width: 481px) and (max-width: 860px) {
+   .for-media {
+       display: flex;
+       flex-wrap: wrap;
+   }
+
+    .top__header-left .header__top-titles {
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    
+
+    .top__header-right i {
+        margin-right: 10px;
+        margin-top: 10px;  
+        font-size: 10px ;
+    }
+
+    .top__header-right img {
+        margin-top: 5px;
+        margin-right: 10px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .sol-video {
+        width:100%;
+    }
+
+    .main__video1 .main__video1-column {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        z-index: 2;
+        top: -400px;
+        left: 50px;
+       
+    }
+
+    .main__video1-column .main__video1-company {
+        color: green;
+        font-weight: 600;
+        font-size: 20px;
+        font-family: 'ZCOOL KuaiLe', cursive;
+        margin-bottom: 5px;
+    }
+
+     
+    .main__video1-column .main__video1-title {
+        color: rgb(8, 90, 26);
+        font-size: 35px; 
+        font-weight: bolder;
+        font-family: 'ZCOOL KuaiLe', cursive;
+        margin-bottom: 15px;
+}
+
+}
+
+@media (max-width: 550px) {
+    .for-media {
+        display: flex;
+        flex-wrap: wrap;
+    }
+ 
+
+    .top__header-left .header__top-titles {
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 8px;
+        margin-top: 10px;
+    }
+
+    .top__header-right i {
+        margin-right: 5px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+
+    
+    .top__header-right img {
+        margin-top: 10px;
+        margin-right: 5px;
+        width: 10px;
+        height: 10px;
+    }
+
+    .main__video1 .main__video1-column {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        z-index: 2;
+        top: -350px;
+        left: 30px;
+       
+    }
+
+    .sol-video {
+        width:100%;
+        justify-content: center;
+    }
+
+    .main__video1-column .main__video1-company {
+        color: green;
+        font-weight: 600;
+        font-size: 10px;
+        font-family: 'ZCOOL KuaiLe', cursive;
+        margin-bottom: 5px;
+    }
+
+
+    .main__video1-column .main__video1-title {
+        color: rgb(8, 90, 26);
+        font-size: 25px; 
+        font-weight: bolder;
+        font-family: 'ZCOOL KuaiLe', cursive;
+        margin-bottom: 15px;
+    }
+
+}
