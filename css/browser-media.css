@@ -1,5 +1,5 @@
 
-@media (min-width: 481px) and (max-width: 860px) {
+@media only screen and (min-width: 576px) and (max-width: 768px) {
    .for-media {
        display: flex;
        flex-wrap: wrap;
@@ -60,7 +60,7 @@
 
 }
 
-@media (max-width: 550px) {
+@media only screen and (min-width: 575px) {
     .for-media {
         display: flex;
         flex-wrap: wrap;
@@ -100,7 +100,6 @@
 
     .sol-video {
         width:100%;
-        justify-content: center;
     }
 
     .main__video1-column .main__video1-company {
