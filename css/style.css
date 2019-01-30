@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import "main.css";
+@import "main-media.css";
 @import "global.css";
 @import "browser.css";
+<<<<<<< HEAD
 @import "";
+=======
+@import "browser-media.css";
+@import "reset.css";
+
+>>>>>>> master
